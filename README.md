@@ -1,12 +1,10 @@
 Hi 👋 My name is Nick Pavlosky
 ==============================
 
-I'm a Computer Science student at UCLA interested in building software that makes people's lives easier. Most of my experience is in web development, but I love to learn new things in software 😊
+I'm a Software Development Engineer at AWS interested in building software that makes people's lives easier. Most of my experience is in web development, but I love to learn new things in software 😊
 
-* 🌍 I'm based in Los Angeles, CA
-* 🖥️ See my portfolio at [neekthegiraffe.github.io](http://neekthegiraffe.github.io)
-* 🌱 I'm currently learning [Rust](https://www.rust-lang.org)!
-* 🤝 I'm open to collaborate on any cool project ideas!
+* 🌍 I'm based in the San Francisco Bay Area, CA
+* 🖥️ See my portfolio at [neekthegiraffe.github.io](https://neekthegiraffe.github.io)
 
 <!--
 **NeekTheGiraffe/NeekTheGiraffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
